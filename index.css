@@ -1,0 +1,70 @@
+header{
+    background-color:rgb(240, 211, 211);
+    padding: 20px;
+}
+h1{
+    color: rgb(145, 212, 191);
+}
+h1,ul{
+    text-align: center;
+}
+ul li{
+    display: inline;
+    padding-left: 60px;
+    padding-right: 60px;
+    color: aliceblue;
+    font-size: 20px;
+}
+ul a{
+    text-decoration: none;
+}
+a li:hover{
+    font-size: 23px ;
+    color: rgb(195, 224, 115);
+}
+img{
+    border-radius: 10%;
+}
+
+#home{
+    text-align: center;
+}
+#home img{
+    height: 200px;
+    width: 200px;
+}
+#about{
+    text-align: center;
+}
+#about h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#skills li{
+   color: rgb(85, 227, 14);
+}
+
+table,tr,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+table th{
+    background-color: rgb(36, 250, 36);
+}
+table td{
+    background-color: bisque;
+}
+
+#about h1{
+    color: rgb(186, 189, 145);
+}
+#about{
+    display:flex;
+    padding: 30px;
+}
+#about div{
+    padding: 20px;
+}
+table, th, td {
+  border: 1px solid rgb(243, 8, 8);
+}
